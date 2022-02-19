@@ -18,8 +18,10 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne: '',
-  paragraphTwo: '',
+  paragraphOne:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam architecto corporis eos deserunt assumenda explicabo modi odio, tenetur accusamus earum rem voluptatum maxime error ea voluptas, dolore unde saepe porro!',
+  paragraphTwo:
+    'Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis ullam adipisci qui ad dolore obcaecati temporibus totam eligendi impedit possimus libero molestiae nihil vel ex provident suscipit voluptas, velit laboriosam.Harum inventore cupiditate quos, a porro velit dignissimos fugiat? Ratione ea eveniet qui odio voluptate cumque, exercitationem maxime nisi, repellendus, corrupti nam obcaecati asperiores culpa recusandae explicabo. Dolorum, officiis hic!',
   paragraphThree: '',
   resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
 };
